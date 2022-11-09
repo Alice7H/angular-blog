@@ -16,7 +16,8 @@
 	color: #c4c4c4;
 	font-size: 14px;
 }
-.content__description {
+.content__title {
 	margin-top: 0.5rem;
 	font-size: 1rem;
+	font-weight: bold;
 }

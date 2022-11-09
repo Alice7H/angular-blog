@@ -1,0 +1,18 @@
+@media (min-width: 576px) {
+	.content__cover > img {
+		height: 250px;
+		width: 400px;
+		min-width: 400px;
+	}
+}
+
+@media (min-width: 768px) {
+	.container__content {
+		height: 100vh;
+	}
+	.content__cover > img {
+		height: 300px;
+		width: 500px;
+		min-width: 500px;
+	}
+}
