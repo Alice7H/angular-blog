@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Capa" title="Capa" src="./.ideas/origin.png" />
+</h1>
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
