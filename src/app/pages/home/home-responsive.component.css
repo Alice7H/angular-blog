@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+	.container__articles {
+		flex-direction: row;
+		gap: 10%;
+	}
+	.articles__main,
+	.articles__others {
+		width: 50%;
+	}
+}
