@@ -16,5 +16,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 - Create menu-bar
 - Create menu-title
-- Create small card
-- Create big card
+- Create small-card
+- Create big-card
