@@ -1,0 +1,16 @@
+.container__menu-bar {
+	padding: 1rem;
+}
+.container__menu-bar ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	gap: 1rem;
+	list-style: none;
+}
+.container__menu-bar ul li:hover {
+	text-decoration: underline;
+}
+.container__menu-bar ul li:hover a {
+	color: #ff55aa;
+}

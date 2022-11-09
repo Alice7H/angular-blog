@@ -1,0 +1,21 @@
+header {
+	display: flex;
+	justify-content: center;
+}
+.container__articles {
+	display: flex;
+	padding: 1.5rem;
+	flex-direction: column;
+}
+
+@media (min-width: 768px) {
+	.container__articles {
+		flex-direction: row;
+		padding: 1.5rem;
+		gap: 10%;
+	}
+	.articles__main,
+	.articles__others {
+		width: 50%;
+	}
+}

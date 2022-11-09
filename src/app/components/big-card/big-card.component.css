@@ -1,0 +1,24 @@
+.container__big-card {
+	width: 100%;
+	border-radius: 8px;
+}
+.big-card__photo > img {
+	width: 100%;
+	border-radius: 5px;
+}
+.big-card__title > h1 {
+	font-size: 20px;
+	margin-top: 15px;
+}
+.big-card__description > p > a {
+	display: block;
+	color: grey;
+	margin: 10px auto;
+	padding-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+	.container__big-card {
+		margin: 0px 1.5rem;
+	}
+}
