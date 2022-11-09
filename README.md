@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Capa" title="Capa" src="./.ideas/origin.png" />
+  <img alt="Capa" title="Capa" src="./src/assets/banner.png" />
 </h1>
 
 # AngularBlog
